@@ -1,2 +1,3 @@
 language: bash
 script: echo success
+sh scriptingisfun.sh
